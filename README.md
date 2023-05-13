@@ -8,7 +8,7 @@ Implementation of a Random forest algorithm model to predict stock prices for th
 - Created a target column to train and study trends using the model
 2. Model Training
 - Developed a Random Forrest Regressor model with key parameters for increased accuracy on predictions
-- Trained the model using predefined training set and evaluted for precision, accuracy, and MSE
+- Trained the model using predefined training set and evaluted for accuracy, f1 score, and classification reports
 3. Backtesting
 - Developed a backtesting function to evaluate model performance using historical data
 - Gathered data from backtesting process for evaluation using the earlier mentioned metrics
